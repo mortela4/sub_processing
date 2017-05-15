@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26228.10
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "subproc_ex1", "subproc_ex1\subproc_ex1.csproj", "{EC66642D-92D3-4955-BF3F-73B7C2D6C8B5}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "binaries", "binaries", "{7A9AFBA7-8462-45C4-B5D5-443283DEA765}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "progress_bar1", "progress_bar1\progress_bar1.csproj", "{A10A9F80-465A-43CD-A948-8A9964708E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "target_bl_commands", "target_bl_commands\target_bl_commands.csproj", "{690DCCCC-A5C5-4399-BF73-BEBBB86665FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +37,10 @@ Global
 		{A10A9F80-465A-43CD-A948-8A9964708E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A10A9F80-465A-43CD-A948-8A9964708E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A10A9F80-465A-43CD-A948-8A9964708E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{690DCCCC-A5C5-4399-BF73-BEBBB86665FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690DCCCC-A5C5-4399-BF73-BEBBB86665FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690DCCCC-A5C5-4399-BF73-BEBBB86665FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690DCCCC-A5C5-4399-BF73-BEBBB86665FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
